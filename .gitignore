@@ -1,0 +1,7 @@
+# Ignore Node modules in the React app
+my-chat-ui/node_modules/
+
+# Optionally ignore the build directory (if created)
+my-chat-ui/build/
+
+# You can add other files or directories you don’t need to track here.
